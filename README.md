@@ -1,11 +1,15 @@
 
 ## Explanation
 1.Make sure you have locally installed mongo and node
+
 2.created CRUD for movies with role based auth
+
 3.i have used guards and with passport jwt 
+
 4. Implemented Swagger UI as well the api testing for the and easy understand
+   
 5.this task took me 2 hours and 30 mins to complete i have normal nest js cli if multiple apllication we have i used to go with monorepo appoarch
-6.thanks 
+
 
 ## Description
 
